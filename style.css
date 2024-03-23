@@ -1,0 +1,27 @@
+body {
+    margin:0;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+.link{
+    color: white;
+    cursor:pointer;
+    list-style: none;
+    padding-right:70px;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul{
+   list-style: none;
+}
+
+h1 {
+    margin-bottom:50px;
+    font-family:Arial, Helvetica, sans-serif
+}
